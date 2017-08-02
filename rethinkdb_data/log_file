@@ -42,3 +42,13 @@
 2017-08-02T14:54:21.535554000 72.458742s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
 2017-08-02T14:54:25.278162000 76.201455s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
 2017-08-02T14:54:25.559289000 76.482581s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T16:17:02.541283000 5033.599640s info: Table 44965ad6-571e-40e9-bb49-26328020866a: Starting a new Raft election for term 1.
+2017-08-02T16:17:02.577252000 5033.635609s info: Table 44965ad6-571e-40e9-bb49-26328020866a: Added replica on this server.
+2017-08-02T16:17:02.983049000 5034.041458s info: Table 44965ad6-571e-40e9-bb49-26328020866a: This server is Raft leader for term 1. Latest log index is 0.
+2017-08-02T17:12:55.694691000 8386.209612s info: Table a1c19915-2af2-4ca7-b01f-3139f6401fb0: Starting a new Raft election for term 1.
+2017-08-02T17:12:55.694872000 8386.209793s info: Table a1c19915-2af2-4ca7-b01f-3139f6401fb0: Added replica on this server.
+2017-08-02T17:12:55.950365000 8386.465287s info: Table a1c19915-2af2-4ca7-b01f-3139f6401fb0: This server is Raft leader for term 1. Latest log index is 0.
+2017-08-02T17:13:41.930379000 8432.446611s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T17:13:43.527484000 8434.043768s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T17:23:08.987463000 8999.519675s notice: Removing file /Users/gareth/Code/run-club-server/rethinkdb_data/44965ad6-571e-40e9-bb49-26328020866a
+2017-08-02T17:23:08.987478000 8999.519689s info: Table 44965ad6-571e-40e9-bb49-26328020866a: Deleted the table.
