@@ -1,0 +1,44 @@
+2017-08-02T13:26:24.403635000 0.298379s notice: Recursively removing directory /Users/gareth/Code/run-club-server/rethinkdb_data/tmp
+2017-08-02T13:26:24.406154000 0.300902s notice: Initializing directory /Users/gareth/Code/run-club-server/rethinkdb_data
+2017-08-02T13:26:24.406299000 0.301042s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/gareth/Code/run-club-server/rethinkdb_data' did not already exist or is empty.)
+2017-08-02T13:26:24.406413000 0.301156s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2017-08-02T13:26:24.434866000 0.329610s notice: Running on Darwin 16.7.0 x86_64
+2017-08-02T13:26:24.434972000 0.329715s notice: Loading data from directory /Users/gareth/Code/run-club-server/rethinkdb_data
+2017-08-02T13:26:25.638148000 1.532944s info: Automatically using cache size of 1487 MB
+2017-08-02T13:26:25.640306000 1.535101s notice: Listening for intracluster connections on port 29015
+2017-08-02T13:26:25.642102000 1.536897s notice: Listening for client driver connections on port 28015
+2017-08-02T13:26:25.642386000 1.537181s notice: Listening for administrative HTTP connections on port 8080
+2017-08-02T13:26:25.643732000 1.538528s notice: Listening on cluster addresses: 127.0.0.1, 192.168.56.1, 172.31.99.106, ::1, fe80::1%1, fe80::c6b:73ff:fe9b:a758%9, fe80::145f:b92:a768:e716%5, fe80::f8bd:4e7b:a1dc:ced0%11
+2017-08-02T13:26:25.644995000 1.539790s notice: Listening on driver addresses: 127.0.0.1, 192.168.56.1, 172.31.99.106, ::1, fe80::1%1, fe80::c6b:73ff:fe9b:a758%9, fe80::145f:b92:a768:e716%5, fe80::f8bd:4e7b:a1dc:ced0%11
+2017-08-02T13:26:25.645999000 1.540795s notice: Listening on http addresses: 127.0.0.1, 192.168.56.1, 172.31.99.106, ::1, fe80::1%1, fe80::c6b:73ff:fe9b:a758%9, fe80::145f:b92:a768:e716%5, fe80::f8bd:4e7b:a1dc:ced0%11
+2017-08-02T13:26:25.646009000 1.540805s notice: Server ready, "C17J3C9KDTY3_r73" 40a80e0d-ce50-4517-8cd9-0342a60bbd92
+2017-08-02T13:26:26.395154000 2.289949s notice: A newer version of the RethinkDB server is available: 2.3.6. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2017-08-02T13:26:47.014550000 22.909922s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T13:26:48.438455000 24.333879s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:49:45.474488000 1185.674151s notice: Server got SIGINT from pid 54000, uid 501; shutting down...
+2017-08-02T14:49:45.474656000 1185.674319s notice: Shutting down client connections...
+2017-08-02T14:49:45.474890000 1185.674553s notice: All client connections closed.
+2017-08-02T14:49:45.474900000 1185.674563s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-08-02T14:49:45.533518000 1185.733181s notice: Storage engine shut down.
+2017-08-02T14:53:09.110865000 0.032066s notice: Running rethinkdb 2.3.5 (CLANG 8.0.0 (clang-800.0.38))...
+2017-08-02T14:53:09.171102000 0.092300s notice: Running on Darwin 16.7.0 x86_64
+2017-08-02T14:53:09.171201000 0.092397s notice: Loading data from directory /Users/gareth/Code/run-club-server/rethinkdb_data
+2017-08-02T14:53:09.519012000 0.440209s info: Automatically using cache size of 1510 MB
+2017-08-02T14:53:09.521408000 0.442604s notice: Listening for intracluster connections on port 29015
+2017-08-02T14:53:09.522759000 0.443955s notice: Listening for client driver connections on port 28015
+2017-08-02T14:53:09.522984000 0.444181s notice: Listening for administrative HTTP connections on port 8080
+2017-08-02T14:53:09.524089000 0.445286s notice: Listening on cluster addresses: 127.0.0.1, 192.168.56.1, 192.168.0.8, ::1, fe80::1%1, fe80::c6b:73ff:fe9b:a758%9, fe80::145f:b92:a768:e716%5, fe80::f8bd:4e7b:a1dc:ced0%11
+2017-08-02T14:53:09.525214000 0.446410s notice: Listening on driver addresses: 127.0.0.1, 192.168.56.1, 192.168.0.8, ::1, fe80::1%1, fe80::c6b:73ff:fe9b:a758%9, fe80::145f:b92:a768:e716%5, fe80::f8bd:4e7b:a1dc:ced0%11
+2017-08-02T14:53:09.526308000 0.447505s notice: Listening on http addresses: 127.0.0.1, 192.168.56.1, 192.168.0.8, ::1, fe80::1%1, fe80::c6b:73ff:fe9b:a758%9, fe80::145f:b92:a768:e716%5, fe80::f8bd:4e7b:a1dc:ced0%11
+2017-08-02T14:53:09.526318000 0.447514s notice: Server ready, "C17J3C9KDTY3_r73" 40a80e0d-ce50-4517-8cd9-0342a60bbd92
+2017-08-02T14:53:09.988194000 0.909391s notice: A newer version of the RethinkDB server is available: 2.3.6. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2017-08-02T14:53:10.921191000 1.842440s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:53:12.514781000 3.436082s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:53:33.403354000 24.325232s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:53:34.950957000 25.872835s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:54:14.518811000 65.441790s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:54:16.132199000 67.055229s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:54:21.252290000 72.175477s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:54:21.535554000 72.458742s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:54:25.278162000 76.201455s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
+2017-08-02T14:54:25.559289000 76.482581s notice: Someone asked for the nonwhitelisted file "/robots.txt".  If this should be accessible, add it to the static web assets.
